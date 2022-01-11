@@ -103,8 +103,6 @@ Topics of the Course
         
         **multiple copies** or **caching**: there are lots of different versions of data ,replica servers are hard to keep identical. 
         
-        ![截屏2021-08-16 下午8.02.37.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6e827bf8-1dda-4cec-95f4-f5bd6070d5f1/截屏2021-08-16_下午8.02.37.png)
-        
     - Strong guarantee
         
         Get(k) yields the value from the **most recent Put(k,v)** 
